@@ -64,7 +64,7 @@ Folder structure:
  
 Publication:
 ----------------
-
+Xu, Z., Guan, K., Casler, N., Peng, B., & Wang, S. (2018). A 3D convolutional neural network method for land cover classification using LiDAR and multi-temporal Landsat imagery. ISPRS Journal of Photogrammetry and Remote Sensing, 144, 423-434.
 
 
 
